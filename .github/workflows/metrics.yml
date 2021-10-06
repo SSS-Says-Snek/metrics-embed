@@ -26,6 +26,6 @@ jobs:
           
           plugin_wakatime: yes
           plugin_wakatime_token: ${{secrets.WAKATIME_API_TOKEN}}
-          plugin_wakatime_days: 14
-          plugin_wakatime_user: SSS_Says_Snek
+          plugin_wakatime_days: 7
+          plugin_wakatime_user: .user.login
           
