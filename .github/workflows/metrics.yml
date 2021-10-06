@@ -20,6 +20,8 @@ jobs:
           
           plugin_lines: yes
           
+          plugin_traffic: yes
+          
           plugin_achievements: yes
           
           plugin_notable: yes
