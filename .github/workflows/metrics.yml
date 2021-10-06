@@ -22,3 +22,9 @@ jobs:
           
           plugin_achievements: yes
           
+          plugin_notable: yes
+          
+          plugin_wakatime: yes
+          plugin_wakatime_token: ${{secrets.WAKATIME_API_TOKEN}}
+          plugin_wakatime_days: 14
+          
