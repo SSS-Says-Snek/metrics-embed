@@ -18,6 +18,9 @@ jobs:
           plugin_habits: yes
           plugin_habits_days: 69
           
+          plugin_licenses: yes
+          plugin_licenses_ratio: yes
+          
           plugin_lines: yes
           
           plugin_traffic: yes
