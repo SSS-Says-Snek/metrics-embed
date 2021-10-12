@@ -22,6 +22,10 @@ jobs:
           
           plugin_traffic: yes
           
+          plugin_topics: yes
+          plugin_topics_mode: mastered
+          plugin_topics_sort: activity
+          
           plugin_achievements: yes
           
           plugin_notable: yes
